@@ -1,0 +1,15 @@
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\bin\Debug\net6.0\fundamentos-poo.exe
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\bin\Debug\net6.0\fundamentos-poo.deps.json
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\bin\Debug\net6.0\fundamentos-poo.runtimeconfig.json
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\bin\Debug\net6.0\fundamentos-poo.dll
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\bin\Debug\net6.0\fundamentos-poo.pdb
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.csproj.AssemblyReference.cache
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.AssemblyInfoInputs.cache
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.AssemblyInfo.cs
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.csproj.CoreCompileInputs.cache
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.dll
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\refint\fundamentos-poo.dll
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.pdb
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\fundamentos-poo.genruntimeconfig.cache
+C:\git\fundamentos-poo\fundamentos-poo\fundamentos-poo\obj\Debug\net6.0\ref\fundamentos-poo.dll
