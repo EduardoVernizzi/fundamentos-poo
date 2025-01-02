@@ -1,23 +1,55 @@
 ﻿using ExemploPOO.Models;
 using System;
 
-//Polimorfismo
-
-Aluno a1 = new Aluno();
-a1.Nome = "Victor Vernizzi";
-a1.Idade = 15;
-a1.Email = "teste@teste.com";
-a1.Nota = 10;
-a1.Apresentar();
 
 
 
 
-Professor p1 = new Professor();
-p1.Nome = "Eduardo Vernizzi";
-p1.Idade = 25;
-p1.Salario = 5000;
-p1.Apresentar();
+
+
+
+
+
+
+
+
+//Pessoa p1 = new Pessoa("Carlos");
+//Aluno a1 = new Aluno("Victor");
+//a1.Apresentar();
+
+
+
+
+
+
+
+
+//Corrente c1 = new Corrente();
+//c1.Creditar(500);
+//c1.ExibirSaldo();
+
+
+
+
+
+
+////Polimorfismo
+
+//Aluno a1 = new Aluno();
+//a1.Nome = "Victor Vernizzi";
+//a1.Idade = 15;
+//a1.Email = "teste@teste.com";
+//a1.Nota = 10;
+//a1.Apresentar();
+
+
+
+
+//Professor p1 = new Professor();
+//p1.Nome = "Eduardo Vernizzi";
+//p1.Idade = 25;
+//p1.Salario = 5000;
+//p1.Apresentar();
 
 
 //Herança
